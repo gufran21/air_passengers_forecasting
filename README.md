@@ -2,6 +2,8 @@
 ## Overview
 This repository contains code and resources for analyzing time series data of flight passengers and forecasting the number of passengers for future days. The analysis is primarily based on ARIMA (AutoRegressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) models.
 
+![output](https://github.com/gufran21/air_passengers_forecasting/assets/111707501/30880b0b-fde4-4a51-84d0-64156abb0804)
+
 ## Data
 The dataset used for analysis consists of historical records of flight passengers. It includes information such as date, number of passengers, and possibly other relevant features like flight routes, airlines, etc.
 
